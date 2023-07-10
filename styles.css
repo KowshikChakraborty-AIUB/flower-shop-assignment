@@ -60,5 +60,70 @@ header{
     font-weight: 700;
 }
 
+/* Main Section Styles */
+
+/* Featured Flowers Section */
+
+.feature-flowers-info{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 140px;
+}
+
+.feature-flowers-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feature-flowers-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.feature-flowers-background{
+    display: flex;
+    gap: 24px;
+    margin-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: center;
+}
+
+.feature-flowers-bg{
+    background: rgba(167, 33, 98, 0.15);
+    width: 364px;
+    height: 438px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+
+.feature-flowers-bg-color-2{
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.feature-flowers-bg-color-3{
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.feature-flowers-image{
+    width: 280px;
+    height: 326px;
+    padding-top: 110px;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+
+.figure-caption{
+    color: #272727;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
 
 
