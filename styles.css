@@ -144,7 +144,7 @@ header{
 .delivery-support-content{
     text-align: center;
     color: rgba(39, 39, 39, 0.80);
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     font-size: 20px;
     font-weight: 400;
     padding-top: 50px;
@@ -159,6 +159,7 @@ header{
     background: rgba(229, 84, 115, 0.05);
     display: flex;
     align-items: center;
+    margin-top: 100px;
 }
 
 .hot-deal-description{
@@ -167,17 +168,47 @@ header{
 
 .hot-deal-title{
     color: #272727;
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     font-size: 40px;
     font-weight: 800;
 }
 
 .hot-deal-text{
     color: rgba(39, 39, 39, 0.60);
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     font-size: 18px;
     font-weight: 400;
     /* line-height: 30px; */
 }
 
+/* Instagram Section Styles */
 
+.instagram{
+    margin-top: 100px;
+}
+
+.insta-content{
+    text-align: center;
+}
+
+.insta-title{
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.insta-images{
+    display: flex;
+    gap: 22px;
+    margin-top: 42px;
+    margin-left: 40px;
+    margin-right: 50px;
+}
