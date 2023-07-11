@@ -126,4 +126,28 @@ header{
     text-decoration-line: underline;
 }
 
+/* Delivery Support Styles */
+
+.delivery-support{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 250px;
+    margin-top: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.delivery-support-content{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.80);
+    font-family: 'Lato';
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 50px;
+}
+
 
