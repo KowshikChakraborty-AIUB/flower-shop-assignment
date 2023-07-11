@@ -107,6 +107,11 @@ header{
     margin-top: 100px;
 }
 
+.feature-flowers-info p{
+    margin: 0px auto;
+    width: 600px;
+}
+
 .feature-flowers-title{
     color: #272727;
     font-size: 40px;
@@ -203,6 +208,9 @@ header{
     text-align: center;
 }
 
+.hot-deal-description p{
+    width: 1000px;
+}
 
 .hot-deal-title{
     color: #272727;
@@ -219,10 +227,20 @@ header{
     line-height: 30px;
 }
 
+.hot-deal-image{
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+
 /* Instagram Section Styles */
 
 .instagram{
     margin-top: 100px;
+}
+
+.insta-content p{
+    margin: 0px auto;
+    width: 600px;
 }
 
 .insta-content{
@@ -319,10 +337,15 @@ footer{
     font-weight: 400;
 }
 
+.footer-content p{
+    margin: 0px auto;
+    width: 600px;
+}
+
 .footer-copyright{
     color: rgba(255, 255, 255, 0.40);
     font-family: 'Lato', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 60px;
 }
